@@ -1,0 +1,14 @@
+{
+  "name": "lvu-proposal",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.0.0",
+    "@slidev/theme-default": "latest"
+  }
+}
