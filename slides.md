@@ -175,7 +175,7 @@ The main changes are:
 - PM/Teamlead should always create tickets when they want something done. Mid-sprint Tickets should almost always be put into the next sprint
 - QA starts writing test cases right after ticket creation. 
 - QA is only responsible for managing test cases, and join demos to QA. Only manual test when really necessary 
-- The whole team should play poker to estimate story points 
+- The whole team should play poker to estimate story points. Estimate as if we don't use AI
 - Devs should always update tickets promptly. U can use Claude for this
 - Devs are responsible for demoing their own features/APIs, explain feature mechanics and prove that the tracking implementation works
 - "Real" daily meeting: What is my progress on X, what i'm planning to do, what is my blocker, will i be late for release?
