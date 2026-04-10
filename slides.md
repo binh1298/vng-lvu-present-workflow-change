@@ -163,7 +163,7 @@ layout: center
 class: text-center
 ---
 
-# We have great people, so I blame the workflow
+# Tất cả tại workflow
 
 The company actually has a great workflow, let's follow that
 
